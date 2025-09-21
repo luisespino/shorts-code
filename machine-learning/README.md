@@ -11,3 +11,6 @@ Serie de videos cortos de cómo entrenar modelos de Machine Learning utilizando 
 |4|[▶️ Cargar CSV del drive](https://youtube.com/shorts/yngVQZCMbrY)|[📝 04-drive.ipynb](04-drive.ipynb)|
 |5|[▶️ Cargar CSV desde un URL](https://youtube.com/shorts/r74qEuYVOOk)|[📝 05-url.ipynb](05-url.ipynb)|
 |6|[▶️ NumPy](https://youtube.com/shorts/wprLMuSwQSE)|[📝 06-numpy.ipynb](06-numpy.ipynb)|
+|7|[▶️ Regresión lineal](https://youtube.com/shorts/wprLMuSwQSE)|[📝 07-regresion-lineal.ipynb](07-regresion-lineal.ipynb)|
+|8|[▶️ Regresión polinomial](https://youtube.com/shorts/wprLMuSwQSE)|[📝 08-regresion-polinomial.ipynb](08-regresion-polinomial.ipynb)|
+|9|[▶️ Forecast](https://youtube.com/shorts/wprLMuSwQSE)|[📝 09-forecast.ipynb](09-forecast.ipynb)|
