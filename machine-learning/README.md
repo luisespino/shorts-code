@@ -14,3 +14,5 @@ Serie de videos cortos de cómo entrenar modelos de Machine Learning utilizando 
 |7|[▶️ Regresión lineal](https://youtube.com/shorts/kvSN6eHnh30)|[📝 07-regresion-lineal.ipynb](07-regresion-lineal.ipynb)|
 |8|[▶️ Regresión polinomial](https://youtube.com/shorts/NB5RIM6H5KA)|[📝 08-regresion-polinomial.ipynb](08-regresion-polinomial.ipynb)|
 |9|[▶️ Forecast](https://youtube.com/shorts/QtrHBnCYiZw)|[📝 09-forecast.ipynb](09-forecast.ipynb)|
+|10|[▶️ Label Encoder](https://youtube.com/shorts/ZRKf-1pdusU)|[📝 10-label-encode.ipynb](10-label-encoder.ipynb)|
+|11|[▶️ Árboles de decisión](https://youtube.com/shorts/2kqt_UqupTA)|[📝 11-arbol-decision.ipynb](11-arbol-decision.ipynb)|
