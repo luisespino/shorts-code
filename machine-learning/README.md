@@ -16,3 +16,7 @@ Serie de videos cortos de cómo entrenar modelos de Machine Learning utilizando 
 |9|[▶️ Forecast](https://youtube.com/shorts/QtrHBnCYiZw)|[📝 09-forecast.ipynb](09-forecast.ipynb)|
 |10|[▶️ Label Encoder](https://youtube.com/shorts/ZRKf-1pdusU)|[📝 10-label-encode.ipynb](10-label-encoder.ipynb)|
 |11|[▶️ Árboles de decisión](https://youtube.com/shorts/2kqt_UqupTA)|[📝 11-arbol-decision.ipynb](11-arbol-decision.ipynb)|
+|12|[▶️ Random Forest](https://youtube.com/shorts/-cq99Z6BhQ4)|[📝 12-random-forest.ipynb](12-random-forest.ipynb)|
+|13|[▶️ Decision Surface](https://youtube.com/shorts/o2D-TQXrL34)|[📝 13-decision-surface.ipynb](13-decision-surface.ipynb)|
+|14|[▶️ Gaussian Naive Bayes](https://youtube.com/shorts/-KJX5nVabsQ)|[📝 14-naive-bayes.ipynb](14-naive-bayes.ipynb)|
+|15|[▶️ Distribución normal](https://youtube.com/shorts/L25CyMw61j8)|[📝 15-distribucion-normal.ipynb](15-distribucion-normal.ipynb)|
