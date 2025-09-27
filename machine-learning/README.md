@@ -20,3 +20,4 @@ Serie de videos cortos de cómo entrenar modelos de Machine Learning utilizando 
 |13|[▶️ Decision Surface](https://youtube.com/shorts/o2D-TQXrL34)|[📝 13-decision-surface.ipynb](13-decision-surface.ipynb)|
 |14|[▶️ Gaussian Naive Bayes](https://youtube.com/shorts/-KJX5nVabsQ)|[📝 14-naive-bayes.ipynb](14-naive-bayes.ipynb)|
 |15|[▶️ Distribución normal](https://youtube.com/shorts/L25CyMw61j8)|[📝 15-distribucion-normal.ipynb](15-distribucion-normal.ipynb)|
+|16|[▶️ Train, test and split](https://youtube.com/shorts/41y3AboDfHs)|[📝 16-train-test-split.ipynb](16-train-test-split.ipynb)|
