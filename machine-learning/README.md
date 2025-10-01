@@ -21,3 +21,5 @@ Serie de videos cortos de cómo entrenar modelos de Machine Learning utilizando 
 |14|[▶️ Gaussian Naive Bayes](https://youtube.com/shorts/-KJX5nVabsQ)|[📝 14-naive-bayes.ipynb](14-naive-bayes.ipynb)|
 |15|[▶️ Distribución normal](https://youtube.com/shorts/L25CyMw61j8)|[📝 15-distribucion-normal.ipynb](15-distribucion-normal.ipynb)|
 |16|[▶️ Train, test and split](https://youtube.com/shorts/41y3AboDfHs)|[📝 16-train-test-split.ipynb](16-train-test-split.ipynb)|
+|17|[▶️ Image features](https://youtube.com/shorts/NY96m9TnCmU)|[📝 17-image-features.ipynb](17-image-features.ipynb)|
+|18|[▶️ Creación de dataset de imágenes](https://youtube.com/shorts/Z3HYjPEgwAY)|[📝 18-preparing-image-recognition-dataset.ipynb](18-preparing-image-recognition-dataset.ipynb)|
