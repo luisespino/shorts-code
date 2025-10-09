@@ -25,4 +25,6 @@ Serie de videos cortos de cómo entrenar modelos de Machine Learning utilizando 
 |18|[▶️ Creación de dataset de imágenes](https://youtube.com/shorts/Z3HYjPEgwAY)|[📝 18-preparing-image-recognition-dataset.ipynb](18-preparing-image-recognition-dataset.ipynb)|
 |19|[▶️ Support Vector Machines](https://youtube.com/shorts/fsMG1XXapRs)|[📝 19-svc.ipynb](19-svc.ipynb)|
 |20|[▶️ Scalers](https://youtube.com/shorts/Hzi1NgN1GFU)|[📝 20-scalers.ipynb](20-scalers.ipynb)|
+|21|[▶️ Imputers](https://youtube.com/shorts/zOUQVACcuFY)|[📝 21-imputers.ipynb](21-imputers.ipynb)|
+|22|[▶️ PCA](https://youtube.com/shorts/7yqWE-dInMc)|[📝 22-pca.ipynb](22-pca.ipynb)|
 
